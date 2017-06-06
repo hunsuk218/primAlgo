@@ -1,3 +1,5 @@
+package primAlgo;
+
 public class algo {
 	int nodeNum;
 	int graph[][];
